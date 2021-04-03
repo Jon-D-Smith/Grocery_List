@@ -16,12 +16,12 @@ body{
   }
   
   ul {
-    width: 300px;
+    width: 400px;
     margin: 30px auto;
   }
   li{
     color: #333;
-    width: 250px;
+    width: 350px;
     height: 50px;
     list-style: none;
     text-align:left;
